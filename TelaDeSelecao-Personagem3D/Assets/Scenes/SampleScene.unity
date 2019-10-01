@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -437,11 +437,11 @@ MonoBehaviour:
   direita: {fileID: 1045214348}
   direitaFora: {fileID: 939039482}
   listaPersonagens:
-  - {fileID: 2475923039139602381, guid: dcb39df18b5ace142b07ac32e1b5ccf4, type: 3}
-  - {fileID: 6949267075043674119, guid: 8b4d44ee53495e442abbbc540e542f85, type: 3}
-  - {fileID: 6713316698657978726, guid: 850a513e95cac5648be0c364a84f13a1, type: 3}
-  - {fileID: 5163759822287360918, guid: ba6b15eb556dede478d749093fe4e8c2, type: 3}
-  - {fileID: 2475923039139602381, guid: dcb39df18b5ace142b07ac32e1b5ccf4, type: 3}
+  - {fileID: 8652462042906800690, guid: beb8f67196ae16c40987e4949c78cde9, type: 3}
+  - {fileID: 362274322080717894, guid: 646d358a96629e64f8a22a475d2223ac, type: 3}
+  - {fileID: 8652462042906800690, guid: beb8f67196ae16c40987e4949c78cde9, type: 3}
+  - {fileID: 362274322080717894, guid: 646d358a96629e64f8a22a475d2223ac, type: 3}
+  - {fileID: 8652462042906800690, guid: beb8f67196ae16c40987e4949c78cde9, type: 3}
 --- !u!1 &1801314949
 GameObject:
   m_ObjectHideFlags: 0
